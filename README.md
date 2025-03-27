@@ -1,2 +1,2 @@
 # Mobile-GitHub
-https://m.github.com
+https://github.com
